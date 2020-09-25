@@ -1,0 +1,9 @@
+C:\Users\Asif Shikder\source\repos\RCD\RCD.DATA\bin\Debug\netcoreapp3.1\RCD.DATA.deps.json
+C:\Users\Asif Shikder\source\repos\RCD\RCD.DATA\bin\Debug\netcoreapp3.1\RCD.DATA.dll
+C:\Users\Asif Shikder\source\repos\RCD\RCD.DATA\obj\Debug\netcoreapp3.1\RCD.DATA.AssemblyInfoInputs.cache
+C:\Users\Asif Shikder\source\repos\RCD\RCD.DATA\obj\Debug\netcoreapp3.1\RCD.DATA.AssemblyInfo.cs
+C:\Users\Asif Shikder\source\repos\RCD\RCD.DATA\bin\Debug\netcoreapp3.1\RCD.DATA.pdb
+C:\Users\Asif Shikder\source\repos\RCD\RCD.DATA\obj\Debug\netcoreapp3.1\RCD.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Asif Shikder\source\repos\RCD\RCD.DATA\obj\Debug\netcoreapp3.1\RCD.DATA.dll
+C:\Users\Asif Shikder\source\repos\RCD\RCD.DATA\obj\Debug\netcoreapp3.1\RCD.DATA.pdb
+C:\Users\Asif Shikder\source\repos\RCD\RCD.DATA\obj\Debug\netcoreapp3.1\RCD.DATA.csprojAssemblyReference.cache

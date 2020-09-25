@@ -1,0 +1,15 @@
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\bin\Debug\netcoreapp3.1\RCD.DATA.dll
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\obj\Debug\netcoreapp3.1\RCD.REPO.csprojAssemblyReference.cache
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\obj\Debug\netcoreapp3.1\RCD.REPO.AssemblyInfoInputs.cache
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\obj\Debug\netcoreapp3.1\RCD.REPO.AssemblyInfo.cs
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\bin\Debug\netcoreapp3.1\RCD.REPO.deps.json
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\bin\Debug\netcoreapp3.1\RCD.REPO.dll
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\bin\Debug\netcoreapp3.1\RCD.REPO.pdb
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\bin\Debug\netcoreapp3.1\RCD.DATA.pdb
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\obj\Debug\netcoreapp3.1\RCD.REPO.csproj.CopyComplete
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\obj\Debug\netcoreapp3.1\RCD.REPO.dll
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\obj\Debug\netcoreapp3.1\RCD.REPO.pdb
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\bin\Debug\netcoreapp3.1\RCD.REPO.runtimeconfig.json
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\bin\Debug\netcoreapp3.1\RCD.REPO.runtimeconfig.dev.json
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\obj\Debug\netcoreapp3.1\RCD.REPO.csproj.CoreCompileInputs.cache
+C:\Users\Asif Shikder\source\repos\RCD\RCD.REPO\obj\Debug\netcoreapp3.1\RCD.REPO.genruntimeconfig.cache
